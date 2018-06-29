@@ -1,6 +1,4 @@
-SEMAINE 0 
+SEMAINE 0 / BMFWS MODE PSYCHEDELIQUE
 ---------
 
-FICHIER : BMFWS.html
-EXERCICE : Alert + Mode psychédélique
 LIEN : file:///Users/admin/Desktop/THP/SEM-0/ProjetGit2/BetterMotherFuckingWebSite/BMFWS.html
